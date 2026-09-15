@@ -1,0 +1,18 @@
+# Node
+node_modules/
+npm-debug.log*
+
+# Go
+*.exe
+*.test
+*.out
+
+# OS
+.DS_Store
+
+# Editors
+.vscode/
+.idea/
+
+# Env
+.env
